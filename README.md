@@ -12,4 +12,4 @@ Acknowledgments:
 
 J.G.F-T. acknowledges the support from Centre national d’ ́etudes spatiale (CNES) through Phd grant 0101973 and UTINAM Institute of the Universit ́e de Franche-Comte, supported by the Region de Franche-Comte and Institut des Sciences de l’Univers (INSU). Simulations were executed on computers from the UTINAM Institute of the Universit ́e de Franche-Comt́e, supported by the Region de Franche-Comte and Institut des Sciences de l’Univers (INSU).
 
-"Pyfits is a product of the Space Telescope Science Institute, which is operated by AURA for NASA." 
+"Pyfits and PyRAF are products of the Space Telescope Science Institute, which is operated by AURA for NASA." 
