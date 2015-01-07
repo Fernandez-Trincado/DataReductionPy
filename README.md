@@ -2,9 +2,10 @@ Astronomical data reduction for photometry and spectroscopy
 ===============
 
 1. "Cosmicray.py" is a fast algorithm in Python for cosmic rays removal using two sequences of images. An example is shown in http://fernandez-trincado.github.io/Fernandez-Trincado/repositories.html 
-2. "convert_fits_ascii.py" This program was created to convert .fits image to .ascii file using "Pyfits" from Python.
+2. "convert_fits_ascii.py" this program was created to convert .fits image to .ascii file using "Pyfits" from Python.
 
-
+______________________________________________________________________________________________________________________
+Note: If you have any questions, feedback, comments or suggestions, please contact me by: jfernandez@obs-besancon.fr
 ______________________________________________________________________________________________________________________
 Acknowledgments:
 
